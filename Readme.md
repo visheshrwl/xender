@@ -19,7 +19,7 @@ Xender Rust is a file transfer application built using Rust, providing super-fas
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/xender_rust.git
+   git clone [https://github.com/your-username/xender_rust.git](https://github.com/visheshrwl/xender.git) xender_rust
    cd xender_rust
     ```
 
